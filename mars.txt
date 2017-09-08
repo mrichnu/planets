@@ -3,3 +3,5 @@ The two moons may be a problem for the Wolfman.
 The mummy will appreciate the lack of humidity.
 This is another change :)
 My collaborator will see this change
+This change will cause a conflict
+And so will this.
